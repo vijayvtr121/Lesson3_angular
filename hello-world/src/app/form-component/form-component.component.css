@@ -1,0 +1,9 @@
+.alert-danger{
+ background-color: brown;
+}
+.alert{
+    color: white;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
